@@ -1,1 +1,0 @@
-A list of all text files containing data for the tracks of the Two Cup. They can then be opened in F-Zero Execution Project.
