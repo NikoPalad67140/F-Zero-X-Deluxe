@@ -1,1 +1,0 @@
-This is a list of all tracks contained within the repo. The "Beta" folders in each cup contains the tracks themselves, while the "Text" folder in each cup holds the info for said tracks.
